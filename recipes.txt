@@ -5,6 +5,9 @@ potato
 pasta
 mutton
 
+beans
+chicken
+
 
 
 thank you
